@@ -1,0 +1,16 @@
+{
+  "type": "anvilrecipes:anvil",
+  "left": {
+    "item": "minecraft:gold_ingot",
+    "count": 4
+  },
+  "right": {
+    "item": "minecraft:netherite_scrap",
+    "count": 1
+  },
+  "output": {
+    "item": "minecraft:netherite_ingot",
+    "count": 1
+  },
+  "levels_required": 10
+}
